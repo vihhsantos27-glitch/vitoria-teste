@@ -1,0 +1,17 @@
+body {
+    background-color: #FFB6C1;
+}
+h1 {
+    color: #C11C84;
+}
+
+
+h2 {
+    color: rgb(237, 65, 185); /* ou #ffffff */
+}
+p {
+    color: rgb(255, 255, 255); /* ou #ffffff */
+}
+ul {
+    color: rgb(255, 255, 255); /* ou #ffffff */
+}
