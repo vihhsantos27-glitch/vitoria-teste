@@ -1,17 +1,40 @@
 body {
-    background-color: #FFB6C1;
+    background-color: #030b19
 }
 h1 {
-    color: #C11C84;
+    color: #143d5b;
 }
 
 
 h2 {
-    color: rgb(237, 65, 185); /* ou #ffffff */
+    color:#4f81aa
+   
 }
 p {
-    color: rgb(255, 255, 255); /* ou #ffffff */
+    color:rgb(107, 177, 239);
 }
 ul {
-    color: rgb(255, 255, 255); /* ou #ffffff */
+    color: rgb(107, 177, 239)
+}
+h1{
+font-style: italic;
+;
+}
+
+h2{
+    font-style: italic;
+}
+
+A{
+    color: #5fa8dc;
+}
+
+h2{
+    font-size:65px;
+}
+
+/* IMAGENS */ {
+width:100px;
+border-radius: 10px;
+
 }
